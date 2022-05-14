@@ -2,12 +2,12 @@
 :heart: layout: default
 ---
 
-1. {% include 01-name.md %}
+- {% include 01-name.md %}
 
 <br>
 
-* {% include 02-image.md %}
+1. {% include 02-image.md %}
 
 <br>
 
-- item {% include 03-links.md %}
+* {% include 03-links.md %}
