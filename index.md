@@ -13,7 +13,7 @@
 
 <br>
 
-1. {% include 04-lists.md %}
+1.{% include 04-lists.md %}
 
 <br>
 
