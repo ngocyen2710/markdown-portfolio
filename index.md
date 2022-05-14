@@ -13,8 +13,8 @@
 
 <br>
 
-* {% include 04-lists.md %}
+1. {% include 04-lists.md %}
 
 <br>
 
-* {% include 05-emphasis.md %}
+2. {% include 05-emphasis.md %}
