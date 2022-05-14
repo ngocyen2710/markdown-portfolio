@@ -1,12 +1,12 @@
 --
-- item layout: default
+-- item layout: default
 ---
 
-- item {% include 01-name.md %}
+---- item {% include 01-name.md %}
 
 <br>
 
-- item {% include 02-image.md %}
+----- item {% include 02-image.md %}
 
 <br>
 
